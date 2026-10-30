@@ -12,4 +12,8 @@ The site is deployed to GitHub Pages by `.github/workflows/pages.yml` whenever c
 
 ## Search visibility
 
-The site includes a canonical URL, social sharing metadata, Person and WebSite structured data, `robots.txt`, and an XML sitemap. Search engines may take time to crawl and index a newly published site.
+The site includes a canonical URL, social sharing metadata, Person, WebSite, and FAQ structured data, `robots.txt`, and an XML sitemap. Search engines may take time to crawl and index a newly published site.
+
+## Images and performance
+
+Portfolio images use optimized WebP files and lazy loading. The inspiration section contains locally optimized Unsplash stock photos; these are references, not commissioned portfolio work.
